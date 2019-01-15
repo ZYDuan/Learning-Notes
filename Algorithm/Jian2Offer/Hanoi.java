@@ -35,4 +35,5 @@ public class Hanoi {
 		System.out.println("move " + n + " from " + from + " to " + to);
 		move(n - 1, help, to, from);
 	}
+	
 }
