@@ -8,6 +8,7 @@ package review;
  * @author zyd
  * @date 2019年1月14日 下午6:05:45
  * @ClassName: PrintCommonList
+ * 判断单链表是否是回文
  */
 public class IsPalinizedList {
 	public static class Node{
