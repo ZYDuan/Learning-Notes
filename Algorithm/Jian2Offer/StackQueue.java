@@ -10,7 +10,8 @@ import java.util.Stack;
 /**
  * @author zyd
  * @date 2019年1月14日 下午1:28:24
- * @ClassName: Array2StackQueue 用数组结构实现大小固定的队列和栈
+ * @ClassName: Array2StackQueue 
+ * 用队列和栈互相实现
  */
 public class StackQueue {
 	public static class Stack2Queue{
