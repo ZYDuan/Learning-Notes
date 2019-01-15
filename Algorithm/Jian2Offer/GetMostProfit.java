@@ -82,7 +82,6 @@ public class GetMostProfit {
 			}
 			m += proSeq.poll().p;
 		}
-
 		return m;
 	}
 }
