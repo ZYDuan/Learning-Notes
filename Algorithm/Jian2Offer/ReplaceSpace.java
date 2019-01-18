@@ -40,4 +40,5 @@ public class ReplaceSpace {
 		}
 		return new String(res);
 	}
+	
 }
