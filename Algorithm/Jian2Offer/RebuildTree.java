@@ -6,7 +6,8 @@ package review.jian2Offer;
 /**
  * @author zyd
  * @date 2019年1月19日 上午12:16:37
- * @ClassName: RebuildTree 根据中序遍历和前序遍历进行二叉树重建
+ * @ClassName: RebuildTree 
+ * 根据中序遍历和前序遍历进行二叉树重建
  */
 public class RebuildTree {
 	public static class TreeNode {
