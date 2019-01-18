@@ -60,7 +60,7 @@ public class FindRepeatedNum {
 				else 
 					break;
 			}
-			
+	
 			if(count > mid - start + 1)
 				end = mid;
 			else 
@@ -77,10 +77,12 @@ public class FindRepeatedNum {
 	 */
 	private static int getCountRange(int[] nums, int start, int end) {
 		int count = 0;
+		
 		for(int num : nums) {
 			if(num >= start && num <= end)
 				count++;
 		}
+		
 		return count;
 	}
 }
