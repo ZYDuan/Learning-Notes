@@ -8,6 +8,7 @@ package review;
  * @author zyd
  * @date 2019年1月14日 下午5:53:23 
  * @ClassName: ReverseList 
+ * 倒转链表
  */
 public class ReverseList {
 	public static class ListNode{

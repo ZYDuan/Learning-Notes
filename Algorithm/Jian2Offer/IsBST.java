@@ -43,7 +43,6 @@ public class IsBST {
 			left = isBST(node.left) && node.left.val < node.val;
 		if(node.right != null)
 			right = isBST(node.right) && node.right.val > node.val;
-		
 		return left && right;
 	}
 }

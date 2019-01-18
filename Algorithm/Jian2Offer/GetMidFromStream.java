@@ -52,4 +52,5 @@ public class GetMidFromStream {
 			return (maxHeap.peek() + minHeap.peek()) / 2;
 		return maxHeap.size() > minHeap.size() ? maxHeap.peek() : minHeap.peek();
 	}
+	
 }

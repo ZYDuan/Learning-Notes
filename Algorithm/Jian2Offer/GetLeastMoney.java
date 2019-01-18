@@ -35,4 +35,5 @@ public class GetLeastMoney {
 		}
 		return res;
 	}
+	
 }

@@ -9,7 +9,8 @@ import java.util.Queue;
 /**
  * @author zyd
  * @date 2019年1月14日 下午10:32:06
- * @ClassName: IsCompletedTree 判断是否是完全二叉树
+ * @ClassName: IsCompletedTree 
+ * 判断是否是完全二叉树
  */
 public class IsCompletedTree {
 	public static class Node {

@@ -58,7 +58,6 @@ public class GetMaxGrap {
 	 * @return
 	 */
 	private int getIndex(int len, int min, int max, int i) {
-		
 		return (int)(i - min) * len / (max - min);
 	}
 }
