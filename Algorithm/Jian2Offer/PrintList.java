@@ -58,6 +58,7 @@ public class PrintList {
 		if (head == null) {
 			return;
 		}
+		
 		printList1(head.next);
 		System.out.println(head.val);
 	}
